@@ -1,16 +1,14 @@
-package CayP3_1;
-
+package CayP3_03;
 
 import java.util.Scanner;
 
 public class Main {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number: ");
         int number = scanner.nextInt();
-        CheckNumber checkNumber = new CheckNumber(number);
-        checkNumber.printNumber();
+        CountDigits countDigits = new CountDigits(number);
+        countDigits.countDigit();
 
 
     }

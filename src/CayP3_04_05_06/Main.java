@@ -1,4 +1,4 @@
-package CayP3_4_5_6;
+package CayP3_04_05_06;
 
 import java.util.Scanner;
 

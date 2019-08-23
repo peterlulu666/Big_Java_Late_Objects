@@ -1,4 +1,4 @@
-package CayP3_1;
+package CayP3_01;
 
 public class CheckNumber {
     private int number;

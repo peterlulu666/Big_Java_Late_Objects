@@ -1,4 +1,4 @@
-package CayP3_2;
+package CayP3_02;
 
 public class ABSCheckNumber {
     private float number;
