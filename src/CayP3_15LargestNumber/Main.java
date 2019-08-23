@@ -1,4 +1,4 @@
-package CayP3_15;
+package CayP3_15LargestNumber;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package CayP3_16SortStringLexicographically;
+package CayP3_16SortStringLexicographicallyArray;
 
 import java.util.Arrays;
 import java.util.Scanner;
