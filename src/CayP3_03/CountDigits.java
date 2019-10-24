@@ -62,6 +62,9 @@ public class CountDigits {
             return;
         }
 
-        System.out.printf("The number has %d digits", digit);
+        System.out.printf("The number has %d digits \n", digit);
+        // We would count digit like this.
+        int countDigit = Integer.toString(this.number).length();
+        System.out.printf("The number has %d digits", countDigit);
     }
 }
