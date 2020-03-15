@@ -9,6 +9,7 @@ public class Main {
         int year = scanner.nextInt();
         LeapYear leapYear = new LeapYear(year);
         leapYear.checkLeapYear();
+        System.out.println(leapYear.isLeapYear());
 
 
     }
